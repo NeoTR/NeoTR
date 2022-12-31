@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - **Full stack developer (Still learning)**
-- **Purpur#6268, only place to contact me**
+- **Legacy#4712, only place to contact me**
 - **Learning allot of languages**
 - **Open for any project ideas**
 
