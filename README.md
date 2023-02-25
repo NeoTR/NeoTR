@@ -19,10 +19,12 @@
 - **Java** 
 - **HTML**
 - **CSS**
+- **C++**
 
 ## Frameworks
 - **Node.JS**
 - **Express.JS**
+- **ReactJS**
 - **Flask**
 
 ## IDEs
