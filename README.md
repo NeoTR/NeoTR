@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - **Full stack developer (Still learning)**
 - **Legacy#4712, only place to contact me**
-- **Learning allot of languages**
+- **Learning a lot of languages**
 - **Open for any project ideas**
 
 
