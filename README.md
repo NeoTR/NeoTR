@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - **Full stack developer (Still learning)**
-- **Legacy#4712, only place to contact me**
+- **NeoTR, only place to contact me**
 - **Learning a lot of languages**
 - **Open for any project ideas**
 
@@ -20,12 +20,14 @@
 - **HTML**
 - **CSS**
 - **C++**
+- **C#**
 
 ## Frameworks
 - **Node.JS**
 - **Express.JS**
 - **ReactJS**
 - **Flask**
+- **VUE.JS**
 
 ## IDEs
 - **INTELLIJ IDEA**
