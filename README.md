@@ -5,10 +5,11 @@
 
 
 ## 🚀 About Me
-- **Full stack developer (Still learning)**
-- **NeoTR, only place to contact me**
-- **Learning a lot of languages**
+- **Full stack developer**
+- **Love to code**
 - **Open for any project ideas**
+- **You can reach me here: [NeoTR](mailto:connect.neotr@gmail.com)**
+- **Discord: NeoTR**
 
 
 
@@ -33,5 +34,6 @@
 - **INTELLIJ IDEA**
 - **VS CODE**
 - **VIM**
+
 
 
